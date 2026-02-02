@@ -1,0 +1,19 @@
+# LangChain Core
+langchain-core
+langchain-community
+
+# ChromaDB для векторного хранилища
+langchain-chroma
+chromadb
+
+# OpenAI SDK для работы с OpenRouter
+openai
+
+# Работа с переменными окружения
+python-dotenv
+
+# HTTP запросы
+requests
+
+# Gradio для веб-интерфейса
+gradio
