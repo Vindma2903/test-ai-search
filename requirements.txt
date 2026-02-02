@@ -17,3 +17,11 @@ requests
 
 # Gradio для веб-интерфейса
 gradio
+# Excel support
+
+pandas
+openpyxl
+xlrd
+
+psycopg2-binary
+
